@@ -4,6 +4,7 @@
 function h1Selector(){
   return $('h1')
 }
+<<<<<<< HEAD
 
 function liInOlSelector(){
   return $('ol li')
@@ -20,3 +21,5 @@ function imageSelector(){
 function checkboxInputSelector(){
   return $('input[type=checkbox]')
 }
+=======
+>>>>>>> 890bc293b466d7b6cbc35762338ebe57469764a6
